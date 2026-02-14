@@ -1,9 +1,16 @@
 # The Food Collector Truck Mission - Frontend
 
-## GitHub Pages
+## Frontend Deployment
 
-**URL:** https://skill-in-projects.github.io/699095da5ac85ad5f9a2e3d6/
+**GitHub Pages URL:** https://skill-in-projects.github.io/699095da5ac85ad5f9a2e3d6/
 
-## Stack
+## Backend API
 
-React + Vite. Run `npm install` then `npm run dev`.
+**API URL:** https://webapi699095da5ac85ad5f9a2e3d6-production.up.railway.app
+
+## Project Structure
+
+- `index.html` - Main landing page
+- `config.js` - API configuration
+- `style.css` - Styling
+
